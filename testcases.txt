@@ -1,0 +1,17 @@
+(a+b)*abb
+--- Passed Test Cases ---
+(a+b)*abb
+(a+b)*+(ac)*
+(a+b)*
+(a+b+$)*
+a(a+b)*
+(a+$)(a+b)*
+aaa
+a+$
+$
+$+(a+bb)*aa
+(aaa+bbb)(a+b)*
+(a+b)*(aaa+bbb)(a+b)*
+(a+b)(a+b)b(a+b)*
+(a*ba*ba*ba*)*
+(aa)*($+a)
